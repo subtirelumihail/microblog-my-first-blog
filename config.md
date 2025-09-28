@@ -1,0 +1,3 @@
+---
+blogTitle: My first blog
+---
